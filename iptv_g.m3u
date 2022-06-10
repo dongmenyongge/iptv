@@ -54,7 +54,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/CCTV4K.png" group-title="4K",CCTV-4K超高清
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/HXJC.png" group-title="4K",SiTV欢笑剧场4K
-http://192.168.1.1:5858/rtp/238.255.2.198:5999
+http://192.168.1.1:5858/rtp/238.255.2.215:5999
 #EXTINF:-1 tvg-name="Clarity4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/clarity4k.png" group-title="4K",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/lovenature4k.png" group-title="4K",LoveNature4K
