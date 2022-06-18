@@ -8,7 +8,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/dongmenyongge/iptv/main/logo/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://192.168.1.1:5858/rtp/238.255.2.92:5999
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/dongmenyongge/iptv/main/logo/CCTV5.png" group-title="央视",CCTV-5体育
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+http://ott.mobaibox.com/PLTV/3/224/3221227401/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/dongmenyongge/iptv/main/logo/CCTV6.png" group-title="央视",CCTV-6电影
 http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/dongmenyongge/iptv/main/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
@@ -48,11 +48,11 @@ http://192.168.1.1:5858/rtp/238.255.2.97:5999
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/GZWS.png" group-title="卫视",贵州卫视
 http://192.168.1.1:5858/rtp/238.255.2.1:5999
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/FHZW.png" group-title="香港",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/FHZX.png" group-title="香港",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/CCTV4K.png" group-title="4K",CCTV-4K超高清
-https://p.ggiptv.com/v/4k.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/HXJC.png" group-title="4K",SiTV欢笑剧场4K
 http://192.168.1.1:5858/rtp/238.255.2.215:5999
 #EXTINF:-1 tvg-name="Clarity4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/clarity4k.png" group-title="4K",Clarity4K
