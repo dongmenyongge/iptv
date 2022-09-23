@@ -52,7 +52,7 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.iqiq.io/dongmenyongge/iptv/main/logo/FHZX.png" group-title="香港",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.iqiq.io/dongmenyongge/iptv/main/logo/CCTV4K.png" group-title="4K",CCTV-4K超高清
-https://p.ggiptv.com/v/4k.m3u8
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://raw.iqiq.io/dongmenyongge/iptv/main/logo/HXJC.png" group-title="4K",SiTV欢笑剧场4K
 http://192.168.1.1:5858/rtp/238.255.2.215:5999
 #EXTINF:-1 tvg-name="Clarity4K" tvg-logo="https://raw.iqiq.io/dongmenyongge/iptv/main/logo/clarity4k.png" group-title="4K",Clarity4K
