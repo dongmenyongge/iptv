@@ -60,5 +60,5 @@ CCTV央视文化精品,http://192.168.1.1:5858/rtp/238.255.2.32:5999
 贵州6,http://192.168.1.1:5858/rtp/238.255.2.6:5999
 贵州7,http://192.168.1.1:5858/rtp/238.255.2.9:5999
 香港,#genre#
-凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
-凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰中文,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰资讯,http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhzixun/1.m3u8
