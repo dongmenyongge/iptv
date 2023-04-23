@@ -48,9 +48,9 @@ http://192.168.1.1:5858/rtp/238.255.2.97:5999
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/GZWS.png" group-title="卫视",贵州卫视
 http://192.168.1.1:5858/rtp/238.255.2.1:5999
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/FHZW.png" group-title="香港",凤凰中文
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/FHZX.png" group-title="香港",凤凰资讯
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/CCTV4K.png" group-title="4K",CCTV-4K超高清
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/HXJC.png" group-title="4K",SiTV欢笑剧场4K
